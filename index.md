@@ -1,9 +1,12 @@
 ## Welcome to Kamran's Page
 If you want to embed images, this is how you do it:
-
+<!-- 
 
 ![Image]
-(Personal_Page/66722489_10157731897332044_191406686425055232_n.jpeg)
+(Personal_Page/66722489_10157731897332044_191406686425055232_n.jpeg) -->
+
+![Image of Yaktocat]
+(https://octodex.github.com/images/yaktocat.png)
 
 
 <!-- You can use the [editor on GitHub](https://github.com/kamrandb/Personal_Page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->

@@ -3,7 +3,7 @@ If you want to embed images, this is how you do it:
 
 
 ![Image]
-(./66722489_10157731897332044_191406686425055232_n.jpeg)
+(/Personal_Page/66722489_10157731897332044_191406686425055232_n.jpeg)
 
 
 <!-- You can use the [editor on GitHub](https://github.com/kamrandb/Personal_Page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->

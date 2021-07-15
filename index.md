@@ -1,4 +1,8 @@
 ## Welcome to My Page 
+If you want to embed images, this is how you do it:
+
+![Image of Yaktocat]
+(https://octodex.github.com/images/yaktocat.png)
 
 ![Image of Yaktocat]
 (https://github.com/kamrandb/Personal_Page/blob/gh-pages/66722489_10157731897332044_191406686425055232_n.jpeg)

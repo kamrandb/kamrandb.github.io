@@ -1,7 +1,4 @@
----
 
-title: Home Page
----
 
 # Kamran's Page
 

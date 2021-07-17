@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: About
+---
 
 # Kamran's Page
 

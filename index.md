@@ -1,6 +1,6 @@
 ---
-title-heading: false
-title: null
+layout: default
+title: Home Page
 ---
 
 # Kamran's Page

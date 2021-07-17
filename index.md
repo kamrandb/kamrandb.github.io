@@ -4,7 +4,7 @@ title: null
 ---
 
 # Kamran's Page
-<img src="Personal_photo.JPG" width="150" height="280">
+<img src="Personal_photo.JPG" width="50%" height="50%">
 
 
 Hello, World! My name is Kamran. I am a 4th year CS student at UofT. Currently I am doing 16 month PEY at IBM as a backend developer. I am fascinated about science and technology,

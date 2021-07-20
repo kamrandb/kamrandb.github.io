@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: About
+title: Main Page
 ---
 
 # [<span style="color:rgb(66,135,245)">My Page Me</span>](https://kamranbadirov.tech) &nbsp;  [<span style="color:rgb(66,135,245)">About Me</span>](https://kamranbadirov.tech/about)

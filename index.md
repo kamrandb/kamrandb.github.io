@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# <pre>  [<span style="color:rgb(66,135,245)">My Page Me</span>](https://kamranbadirov.tech)        [<span style="color:rgb(66,135,245)">About Me</span>](https://kamranbadirov.tech/about) </pre>
+# [<span style="color:rgb(66,135,245)">My Page Me</span>](https://kamranbadirov.tech) &nbsp;  [<span style="color:rgb(66,135,245)">About Me</span>](https://kamranbadirov.tech/about)
 
 
 

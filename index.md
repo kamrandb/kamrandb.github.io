@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# Kamran's Page  ---    [<span style="color:"rgb(66,135,245)"">About Me</span>](https://kamranbadirov.tech/about)
+# Kamran's Page  ---    [<span style="color:rgb(66,135,245)">About Me</span>](https://kamranbadirov.tech/about)
 <span style="color:blue">some *blue* text</span>.
 <span style="color:red">some **This is Red Bold.** text</span>
 

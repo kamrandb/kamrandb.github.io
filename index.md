@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# Kamran's Page
+# Kamran's Page      [About Me](https://kamranbadirov.tech/about)
 
 
 

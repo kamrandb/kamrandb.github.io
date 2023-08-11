@@ -10,7 +10,7 @@ title: Main Page
 
 <img src="Personal_photo.JPG" width="30%" height="30%"> 
 
-** Kamran Badirov: Computer Scientist & Dragon Boat Enthusiast **
+# Kamran Badirov: Computer Scientist & Dragon Boat Enthusiast
 
 Kamran Badirov is a passionate professional deeply engrossed in the realms of software systems and low-level computer concepts. A proud alumnus of the University of Toronto, he earned his degree in Computer Science in June 2023. His enthusiasm for the subject extends into the classroom, where he has imparted his knowledge as a Teaching Assistant for Database courses. Presently, he's guiding the bright minds of UofT through CSC409 Scalable Computing and CSC373, focusing on Algorithm Design, Analysis, and Complexity.
 

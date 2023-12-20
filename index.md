@@ -27,6 +27,6 @@ Outside of professional and competitive domains, Kamran is a lifelong learner an
 
 # Contacts
 
-- Add on me on [LinkedIn](https://www.linkedin.com/in/badirov-kamran/).
-- Follow me on [Twitter](https://twitter.com/kamranbadirov).
-- My [GitHub](https://github.com/kamrandb).
+- Add on me on [LinkedIn](https://www.linkedin.com/in/badirov-kamran/)
+- Follow me on [Twitter](https://twitter.com/kamranbadirov)
+- My [GitHub](https://github.com/kamranbadirov)

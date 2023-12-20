@@ -15,7 +15,7 @@ title: Main Page
 <img src="Personal_photo.JPG" width="30%" height="30%"> 
 --->
 
-<img src="IMG_9464.JPG" width="30%" height="30%"> 
+<img src="IMG_9464.jpg" width="30%" height="30%"> 
 
 
 

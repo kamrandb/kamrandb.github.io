@@ -7,10 +7,14 @@ title: Main Page
 
 # [<span style="color:rgb(66,135,245)">My Page Me</span>](https://kamrandb.github.io) &nbsp;&nbsp;&nbsp; [<span style="color:rgb(66,135,245)">About Me</span>](https://kamrandb.github.io) &nbsp;&nbsp;&nbsp; [<span style="color:rgb(66,135,245)">Interests</span>](https://kamrandb.github.io) &nbsp;&nbsp;&nbsp; [<span style="color:rgb(66,135,245)">Projects</span>](https://kamrandb.github.io) 
 
---->
+
 
 
 <img src="Personal_photo.JPG" width="30%" height="30%"> 
+--->
+<img src="IMG_9464.HEIC" width="30%" height="30%"> 
+
+
 
 # Kamran Badirov: Computer Scientist & Dragon Boat Enthusiast
 

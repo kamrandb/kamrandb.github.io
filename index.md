@@ -17,13 +17,26 @@ title: Kamran Badirov
 
 
 
-# Kamran Badirov: Computer Scientist & Dragon Boat Enthusiast
+# Welcome to Kamran's Portfolio
+## Bridging Innovation and Technology
 
-Kamran Badirov is a passionate professional deeply engrossed in the realms of software systems and low-level computer concepts. A proud alumnus of the University of Toronto, he earned his degree in Computer Science in June 2023. His enthusiasm for the subject extends into the classroom, where he has imparted his knowledge as a Teaching Assistant for Database courses. Presently, he's guiding the bright minds of UofT through CSC409 Scalable Computing and CSC373, focusing on Algorithm Design, Analysis, and Complexity.
+Hello and welcome! I'm Kamran, a dedicated and innovative Backend Developer with over 2 years of hands-on experience in creating scalable and reliable software solutions. Having graduated with Honours in Computer Science from the University of Toronto, and minoring in Mathematics, my academic and professional journey has been a vibrant blend of theoretical knowledge and practical application in the realm of technology.
 
-Having worked at industry stalwarts like IBM, Kamran's cumulative experience of 22 months across various tech companies has honed his technical acumen and problem-solving capabilities. But his pursuits are not limited to software and algorithms. A formidable member of the UCBD dragon boat club, Kamran clinched a gold medal in 2023 and a bronze in 2022 at the Canadian Dragon Boat Championship, representing open boat university teams.
+Throughout my PEY at IBM and Congero Technology, I've had the privilege of contributing to the development of high-performance systems, specializing in Python, Java, C++, and leveraging technologies such as Docker, AWS, PostgreSQL, and Cassandra. My role has not only been limited to development; I have actively engaged in designing architectural solutions that ensure scalability, reliability, and efficiency of the systems we build.
 
-Outside of professional and competitive domains, Kamran is a lifelong learner and embraces new challenges. He's gearing up to make strides at the TCS Toronto Waterfront Marathon. While he has been acquainting himself with the chords of a guitar for the past three years, Kamran jokingly admits to mastering just three songs. Nevertheless, his journey exemplifies a blend of technical expertise, athletic prowess, and an ever-curious spirit.
+Beyond my industry experience, I have also contributed to the academic community as a Teaching Assistant at the University of Toronto, guiding students through the complexities of Algorithm Design, Analysis & Complexity, and Scalable Computing. This experience has honed my ability to break down complex concepts into understandable segments, a skill I bring into my professional endeavors to foster collaborative and productive team environments.
+<!---
+
+This portfolio is a window into my professional world. Here, you'll find detailed accounts of my projects, contributions to software engineering, and insights into the solutions I've architected and developed. Each project highlighted in this portfolio stands as a testament to my commitment to excellence, innovation, and the continuous pursuit of knowledge in the ever-evolving field of computer science.
+--->
+
+Beyond my technical and academic pursuits, I am also an avid team player outside of the professional sphere. As a proud member of the University College Dragon Boat Club, I contributed to our team's remarkable achievements, winning gold and bronze medals in the men's boat category at the Canadian National Dragon Boat Championships in 2022 and 2023, respectively. This experience has not only honed my ability to collaborate and thrive in team settings but also instilled in me the value of dedication, leadership, and the pursuit of excellence. It's a testament to my belief that success, whether in technology or in dragon boating, comes from the collective effort and passion of a committed team.
+
+Whether you're a potential employer, a fellow developer, or just someone interested in technology, I invite you to explore my work and get in touch. Let's collaborate to create technology that not only solves problems but also opens new avenues for innovation and creativity.
+
+Welcome, and I look forward to connecting with you.
+
+
 
 # Contacts
 

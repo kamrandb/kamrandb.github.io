@@ -25,6 +25,7 @@ Hello and welcome! I'm Kamran, a dedicated and innovative Backend Developer with
 Throughout my PEY at IBM and Congero Technology, I've had the privilege of contributing to the development of high-performance systems, specializing in Python, Java, C++, and leveraging technologies such as Docker, AWS, PostgreSQL, and Cassandra. My role has not only been limited to development; I have actively engaged in designing architectural solutions that ensure scalability, reliability, and efficiency of the systems we build.
 
 Beyond my industry experience, I have also contributed to the academic community as a Teaching Assistant at the University of Toronto, guiding students through the complexities of Algorithm Design, Analysis & Complexity, and Scalable Computing. This experience has honed my ability to break down complex concepts into understandable segments, a skill I bring into my professional endeavors to foster collaborative and productive team environments.
+
 <!---
 
 This portfolio is a window into my professional world. Here, you'll find detailed accounts of my projects, contributions to software engineering, and insights into the solutions I've architected and developed. Each project highlighted in this portfolio stands as a testament to my commitment to excellence, innovation, and the continuous pursuit of knowledge in the ever-evolving field of computer science.

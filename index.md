@@ -16,11 +16,9 @@ title: Kamran Badirov
 <img src="profile.jpeg" width="30%" height="30%"> 
 
 
+## Kamran Badirov
 
-# Welcome to Kamran's Portfolio
-## Bridging Innovation and Technology
-
-Hello and welcome! I'm Kamran, a dedicated and innovative Backend Developer with over 2 years of hands-on experience in creating scalable and reliable software solutions. Having graduated with Honours in Computer Science from the University of Toronto, and minoring in Mathematics, my academic and professional journey has been a vibrant blend of theoretical knowledge and practical application in the realm of technology.
+I'm Kamran, a dedicated and curious Backend Developer with over 2 years of hands-on experience in creating scalable and reliable software solutions. Having graduated with Honours in Computer Science from the University of Toronto, and minoring in Mathematics, my academic and professional journey has been a vibrant blend of theoretical knowledge and practical application in the realm of technology.
 
 Throughout my PEY at IBM and Congero Technology, I've had the privilege of contributing to the development of high-performance systems, specializing in Python, Java, C++, and leveraging technologies such as Docker, AWS, PostgreSQL, and Cassandra. My role has not only been limited to development; I have actively engaged in designing architectural solutions that ensure scalability, reliability, and efficiency of the systems we build.
 
